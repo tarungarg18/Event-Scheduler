@@ -84,10 +84,9 @@ bash
 Copy
 Edit
 src/
-├── components/         # Navbar, EventCard, etc.
-├── pages/              # Home, CreateEvent, EventDetail, etc.
-├── context/            # AuthContext, EventContext, ThemeContext
-├── App.js
+├── components/      
+├── pages/              
+├── context/            
 └── index.js
 
 ---
