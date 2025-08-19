@@ -56,7 +56,7 @@ Fully responsive, feature-rich, and beginner-friendly — built with React, Reac
 ## 📸 Screenshots
 
 ### ✅ Dashboard  
-![Dashboard](public/screenshots/dashboard.png)
+<img width="1885" height="896" alt="image" src="https://github.com/user-attachments/assets/1ce9de7b-1fe0-47ef-8d5e-5b9a8e25f042" />
 
 ### 📝 Create Event  
 ![Create Event](public/screenshots/create-event.png)
@@ -65,10 +65,7 @@ Fully responsive, feature-rich, and beginner-friendly — built with React, Reac
 ![Login](public/screenshots/login.png)
 
 ### 📅 Calendar View  
-![Calendar View](public/screenshots/calendar.png)
-
-### 📱 Mobile Navbar  
-![Mobile Navbar](public/screenshots/mobile-navbar.png)
+<img width="1913" height="556" alt="image" src="https://github.com/user-attachments/assets/98418544-19bc-4943-9d82-7617bd93638f" />
 
 
 ---
@@ -105,7 +102,3 @@ src/
 📊 Event analytics dashboard
 
 🧾 Invite RSVP email simulation
---
-🧑‍💻 Author
-Vasudev Gautam
-Built for learning and building modern React UIs.
