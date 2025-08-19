@@ -73,7 +73,7 @@ Fully responsive, feature-rich, and beginner-friendly — built with React, Reac
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/EventPal.git
+git clone https://github.com/your-username/Event-Scheduler.git
 cd Event-Scheduler
 npm install
 npm start
