@@ -1,6 +1,6 @@
-# 🎉 EventPal
+# 🎉 Event Scheduler
 
-**EventPal** is a modern React-based web app for discovering, creating, and managing local or online events like webinars, workshops, and meetups.
+**Event Scheduler** is a modern React-based web app for discovering, creating, and managing local or online events like webinars, workshops, and meetups.
 
 Fully responsive, feature-rich, and beginner-friendly — built with React, React Router, Context API, and Framer Motion.
 
@@ -56,17 +56,17 @@ Fully responsive, feature-rich, and beginner-friendly — built with React, Reac
 ## 📸 Screenshots
 
 ### ✅ Dashboard  
-<img width="1885" height="896" alt="image" src="https://github.com/user-attachments/assets/1ce9de7b-1fe0-47ef-8d5e-5b9a8e25f042" />
+<img width="1882" height="911" alt="image" src="https://github.com/user-attachments/assets/5512ddd2-514f-460f-ab40-43141d838f94" />
 
 ### 📝 Create Event  
 ![Create Event](public/screenshots/create-event.png)
 
 ### 👤 Login  
-![Login](public/screenshots/login.png)
+<img width="803" height="501" alt="image" src="https://github.com/user-attachments/assets/054ecf9e-175c-4adf-a6e3-e9634060dcdc" />
+
 
 ### 📅 Calendar View  
-<img width="1913" height="556" alt="image" src="https://github.com/user-attachments/assets/98418544-19bc-4943-9d82-7617bd93638f" />
-
+<img width="1436" height="494" alt="image" src="https://github.com/user-attachments/assets/dde93a69-3542-4b29-9a68-ea4b86fcb93b" />
 
 ---
 
@@ -74,7 +74,7 @@ Fully responsive, feature-rich, and beginner-friendly — built with React, Reac
 
 ```bash
 git clone https://github.com/your-username/EventPal.git
-cd EventPal
+cd Event-Scheduler
 npm install
 npm start
 
