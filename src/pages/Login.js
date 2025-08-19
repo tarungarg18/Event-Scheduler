@@ -28,7 +28,7 @@ const Login = () => {
     >
       <h2 style={{ textAlign: "center", color: "#080808" }}>
         {" "}
-        Login to EventPal
+        Login to Event Scheduler
       </h2>
       <form onSubmit={handleSubmit}>
         <input

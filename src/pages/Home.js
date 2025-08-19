@@ -75,7 +75,7 @@ const Home = () => {
       )}
 
       <div style={{ padding: "2rem" }}>
-        <h2> Welcome to EventPal</h2>
+        <h2> Welcome to Event Scheduler</h2>
 
         <ScrollSection>
           <h2>⌚ Trending Events</h2>

@@ -41,11 +41,7 @@ const EventDetail = () => {
       >
         <h2>Welcome To The :- {event.title} </h2>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem, ex
-          explicabo delectus vel sint, neque quis eos distinctio id obcaecati
-          blanditiis nobis praesentium iusto? Libero sint omnis, doloribus,
-          facere quo neque veniam eveniet, ipsum unde labore debitis sunt at
-          voluptas.
+          No description available.
         </p>
       </motion.div>
     </div>
